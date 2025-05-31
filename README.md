@@ -18,6 +18,12 @@ Funcionalidades implementadas:
 - Jest (para testes)
 - ESLint + Prettier (padronização de código)
 
+**Autor**
+
+Deryck Luan Ferreira de Freitas
+
+e-mail: deryck.freitas@aluno.faculdadeimpacta.com.br
+
 ## Como Executar o Projeto
 
 1. **Clonar o repositório**
@@ -30,9 +36,3 @@ npm install
 npm run start
 
 npm run test
-
-**Autor**
-
-Deryck Luan Ferreira de Freitas
-
-e-mail: deryck.freitas@aluno.faculdadeimpacta.com.br
